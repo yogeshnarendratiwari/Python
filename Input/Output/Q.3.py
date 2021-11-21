@@ -37,6 +37,7 @@
 
 # print("18","11","2021",sep='/',end="\n") 
 
-print("Techsole "," Subscribe this channel and like our video",sep="@")
+# print("Techsole "," Subscribe this channel and like our video",sep="@")
 
+#File
 
